@@ -1,0 +1,5 @@
+summary: GNU File, Shell, and Text utilities
+webpage: https://www.gnu.org/software/coreutils
+version: 9.4 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.2-amd64/releases/download/2025.07.23/coreutils-9.4-netbsd-9.2-amd64.release.tar.xz 
+bin-sha: f0007349589763082fdeead757bf89499f27b78596115c2fa26638b0a566f1df

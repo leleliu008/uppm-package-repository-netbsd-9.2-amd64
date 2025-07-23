@@ -1,0 +1,5 @@
+summary: Macro processing language
+webpage: https://www.gnu.org/software/m4
+version: 1.4.19 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.2-amd64/releases/download/2025.07.23/gm4-1.4.19-netbsd-9.2-amd64.release.tar.xz 
+bin-sha: 1405569ad1f1693161b0c8aa7ad7c2541684859b41b41b32a6b4372658b0f74e

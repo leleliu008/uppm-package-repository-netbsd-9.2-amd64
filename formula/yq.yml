@@ -1,0 +1,5 @@
+summary: A lightweight and portable command-line YAML processor
+webpage: https://mikefarah.gitbook.io/yq
+version: 4.45.4 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.2-amd64/releases/download/2025.07.23/yq-4.45.4-netbsd-9.2-amd64.release.tar.xz 
+bin-sha: cad80c2432f6af0fddfe156b59dee0538fd8b0137eeff9b673b968ae85674075

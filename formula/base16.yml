@@ -1,0 +1,5 @@
+summary: base16 encoder and decoder
+webpage: https://github.com/leleliu008/C-examples
+version: 2025.07.23 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.2-amd64/releases/download/2025.07.23/base16-2025.07.23-netbsd-9.2-amd64.release.tar.xz 
+bin-sha: 4090adad2031ce1e928a20e88afdc26e88a585d352cc21e930bc95bb149e03f4

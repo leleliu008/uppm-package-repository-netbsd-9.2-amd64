@@ -1,0 +1,5 @@
+summary: Perfect hash function generator
+webpage: https://www.gnu.org/software/gperf
+version: 3.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.2-amd64/releases/download/2025.07.23/gperf-3.1-netbsd-9.2-amd64.release.tar.xz 
+bin-sha: 6fc6dc7b85fc1ac5d9109e5a38a9f8db400ff04d44b78a1fcfbc58683e30e3c0
