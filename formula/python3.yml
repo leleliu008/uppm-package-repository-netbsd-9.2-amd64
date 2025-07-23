@@ -1,0 +1,5 @@
+summary: python3 runtime
+webpage: https://www.python.org/
+version: 3.11.11
+bin-url: https://github.com/leleliu008/python-distribution/releases/download/3.11.11/python-3.11.11-netbsd-9.2-amd64.tar.xz
+bin-sha: 616bbd062459e9239105ce03b54fda39a6868ae5144e088b1f6d61ba048ad848
