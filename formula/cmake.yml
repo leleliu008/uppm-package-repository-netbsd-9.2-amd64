@@ -1,0 +1,5 @@
+summary: Cross-platform make
+webpage: https://www.cmake.org/
+version: 3.31.12
+bin-url: https://github.com/leleliu008/ppkg-package-manually-build/releases/download/cmake-3.31.12-netbsd-9.2-amd64.release.tar.xz/cmake-3.31.12-netbsd-9.2-amd64.release.tar.xz
+bin-sha: 8e9ec9baa081efdae8b435b5af2b0ef36581f810146683ddf3722a1864d3e22d
